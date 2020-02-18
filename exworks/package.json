@@ -1,0 +1,24 @@
+{
+  "name": "exworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exworks-start": "expressworks",
+    "exworks-run":"expressworks verify express.js 3000",
+    "exworks-run1":"expressworks verify index.pug",
+    "exworks-run2":"expressworks verify goodOldForm.js",
+    "exworks-run3":"expressworks verify stylishCSS.js",
+    "exworks-run4":"expressworks verify paramPamPam.js",
+    "exworks-run5":"expressworks verify whatsInQuery.js",
+    "exworks-run6":"expressworks verify jsonMe.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expressworks": "^3.4.3"
+  }
+}
