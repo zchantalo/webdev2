@@ -6,5 +6,5 @@
 - [X] javascripting
 - [ ] how-to-npm
 - [X] how-to-markdown
-- [ ] expressworks
-- [ ] patchwork
+- [X] expressworks
+- [X] patchwork (located at gh-pages)
