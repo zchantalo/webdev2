@@ -1,0 +1,32 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "javascripting",
+    "introduction": "javascripting verify introduction.js",
+    "variables": "javascripting verify variables.js",
+    "strings": "javascripting verify strings.js",
+    "string-length": "javascripting verify string-length.js",
+    "revising-strings": "javascripting verify revising-strings.js",
+    "numbers": "javascripting verify numbers.js",
+    "rounding-numbers": "javascripting verify rounding-numbers.js",
+    "number-to-string": "javascripting verify number-to-string.js",
+    "if-statement": "javascripting verify if-statement.js",
+    "for-loop": "javascripting verify for-loop.js",
+    "arrays": "javascripting verify arrays.js",
+    "array-filtering": "javascripting verify array-filtering.js",
+    "accessing-array-values": "javascripting verify accessing-array-values.js",
+    "looping-through-arrays": "javascripting verify looping-through-arrays.js",
+    "objects": "javascripting verify objects.js",
+    "object-properties": "javascripting verify object-properties.js",
+    "object-keys": "javascripting verify object-keys.js",
+    "functions": "javascripting verify functions.js",
+    "function-arguments": "javascripting verify function-arguments.js",
+    "scope": "javascripting verify scope.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
