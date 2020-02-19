@@ -1,0 +1,27 @@
+{
+  "name": "@talo/howtonpm",
+  "version": "1.2.3",
+  "main": "index.js",
+  "scripts": {
+    "start": "how-to-npm",
+    "verify": "how-to-npm verify",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "description": "Run Test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zchantalo/webdev2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zchantalo/webdev2/issues"
+  },
+  "homepage": "https://github.com/zchantalo/webdev2#readme"
+}
