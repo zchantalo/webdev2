@@ -1,21 +1,20 @@
 const express = require('express');
+const authRoutes = require('./routes/auth-routes');
 const app = express();
 
 // set up view engine
 app.set('view engine', 'ejs');
 
+// set up routes
+app.use('/auth',authRoutes);
+
 // create home route
+//homepage
 app.get('/', (req, res)=>{
-    const anydata ={
-     description:{
-      title: "This is a sample description",
-      item:5
-	 }
-	}
-    res.render('home',anydata);
+    res.render('home');
 });
 
 // listen to requests
 app.listen(3000, ()=> {
     console.log('app now listening for requests on port 3000');
-});    
+});
