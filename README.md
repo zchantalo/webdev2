@@ -12,10 +12,10 @@
 # OAuth Demo by Christian John Talo
 
 ## Environment
-- [ ] Part 1: Setting up NodeJS environment
-- [ ] Part 2: Authentication Routes
-- [ ] Part 3: Passport Configuration
-- [ ] Part 4: PostgreSQL Store and Retrieve
+- [x] Part 1: Setting up NodeJS environment
+- [x] Part 2: Authentication Routes
+- [x] Part 3: Passport Configuration
+- [x] Part 4: PostgreSQL Store and Retrieve
 
 ## User Activity
 - [ ] Part 5: Progress Refresh
